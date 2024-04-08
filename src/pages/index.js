@@ -1,9 +1,6 @@
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
-import Image from 'next/image';
-import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
-import Flag from '../../public/eng-flag.png';
 import Table from '@/components/table';
 import ViewInfo from '@/views/info';
 import { ViewTraders } from '@/views/traders';
