@@ -38,7 +38,7 @@ const HeroView = () => {
   return (
     <>    <Box
     sx={{
-      backgroundImage: `url(/hero.png)`, 
+      backgroundImage: `url(./hero.png)`, 
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       width: '100%',

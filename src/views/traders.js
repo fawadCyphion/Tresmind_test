@@ -38,7 +38,7 @@ export const ViewTraders = () => {
         style={{ width: "100%", height: "350px", position: 'relative' }}
       >
         <Box sx={{
-          backgroundImage: `url(/trader1.png)`,
+          backgroundImage: `url(./trader1.png)`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           width: "100%", 
@@ -83,7 +83,7 @@ export const ViewTraders = () => {
         style={{ width: "100%", height: "350px", position: 'relative' }}
       >
         <Box sx={{
-          backgroundImage: `url(/trader2.png)`,
+          backgroundImage: `url(./trader2.png)`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           width: "100%", 
@@ -128,7 +128,7 @@ export const ViewTraders = () => {
         style={{ width: "100%", height: "350px", position: 'relative' }}
       >
         <Box sx={{
-          backgroundImage: `url(/trader3.png)`,
+          backgroundImage: `url(./trader3.png)`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           width: "100%", 
